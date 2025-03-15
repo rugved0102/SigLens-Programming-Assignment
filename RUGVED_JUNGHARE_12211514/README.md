@@ -31,10 +31,10 @@ This will generate the corresponding .class file(s) in the same directory.
 
 3. Run the Program
 
-Execute the compiled program with: ```bash
-
+Execute the compiled program with: 
+```bash
     java MathExpressionEvaluator
-    ```
+```
 
 The program will run and output the result of the evaluated mathematical expression.
 

@@ -27,11 +27,9 @@ This project implements a mathematical expression evaluator in Java that support
     javac MathExpressionEvaluator.java
     ```
 
-This will generate the corresponding .class file(s) in the same directory.
+    This will generate the corresponding .class file(s) in the same directory.
 
 3. Run the Program
-
-Execute the compiled program with: 
     ```bash
     java MathExpressionEvaluator
     ```
